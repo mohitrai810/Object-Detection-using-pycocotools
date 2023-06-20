@@ -3,11 +3,11 @@ This project utilizes the COCO (Common Objects in Context) dataset, an extensive
 
 The project involves the following steps:
 
-Loading the COCO dataset annotations from a JSON file.
-Selecting an image from the dataset.
-Retrieving the image information and loading the image using OpenCV.
-Fetching the annotations associated with the selected image.
-Displaying the original image using Matplotlib.
-Iterating over the annotations and drawing bounding boxes around the objects using OpenCV.
-Adding labels with the object names to the bounding boxes.
-Displaying the modified image with annotated objects using Matplotlib.
+-Loading the COCO dataset annotations from a JSON file.
+-Selecting an image from the dataset.
+-Retrieving the image information and loading the image using OpenCV.
+-Fetching the annotations associated with the selected image.
+-Displaying the original image using Matplotlib.
+-Iterating over the annotations and drawing bounding boxes around the objects using OpenCV.
+-Adding labels with the object names to the bounding boxes.
+-Displaying the modified image with annotated objects using Matplotlib.
