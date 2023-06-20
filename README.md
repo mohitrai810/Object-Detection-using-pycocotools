@@ -10,4 +10,4 @@ The project involves the following steps:
 -Displaying the original image using Matplotlib.
 -Iterating over the annotations and drawing bounding boxes around the objects using OpenCV.
 -Adding labels with the object names to the bounding boxes.
--Displaying the modified image with annotated objects using Matplotlib.
+-Displaying the modified image with annotated objects using Matplotlib.'
