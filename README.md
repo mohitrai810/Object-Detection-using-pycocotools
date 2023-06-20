@@ -1,4 +1,5 @@
 # Object-Detection-using-pycocotools
+used COCO panoptic Train/Val annotations: https://cocodataset.org/#download
 This project utilizes the COCO (Common Objects in Context) dataset, an extensively annotated dataset for object detection and segmentation tasks. The goal of this project is to demonstrate object detection using the COCO dataset by visualizing the annotated objects in an image.
 
 The project involves the following steps:
